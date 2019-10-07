@@ -1,0 +1,10 @@
+C#: c7e3730b18e741932c1bbdc46fafbf1c47728da6
+Java: 7d727068df2b56689226eb83b021d6399982150b
+ca3209af769867dbab8b3e4aff8e51f06b41b6ab refs/heads/JavaScript
+1bd386c6f294a14ac8011f9eaedacd5304473a17 refs/heads/PHP
+9a1b7cb782589fa27c1adee43be11c966e4acac7 refs/heads/Pascal
+1ae6abe1cc10187e7b68f2d2365b96fa8a27c7f2 refs/heads/Python
+59212bdfb7f673f005449c6a96b6ff2a45654abc refs/heads/Ruby
+5b6b51e5329977cbb47e48e195ed735612c6c3bc refs/heads/Swift
+8d16ae4673a27a7c5f5745a1689f0cbfc5957dcc refs/heads/c
+c7cb7b9872f5352a248d453b2068b73fd7b2dd48 refs/heads/cpp
